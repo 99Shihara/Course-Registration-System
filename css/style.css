@@ -1,0 +1,27 @@
+
+
+input,.borderRed{
+    border: 2px solid red;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+table,tr,td{
+    border: none;
+}
+
+tr td:nth-child(1) {
+    font-weight: 600;
+}
+
+.fit-to-parent{
+    width: 100%;
+}
+
+.errorText{
+    font-size: 12px;
+}
+
+textarea {
+  resize: none;
+}
